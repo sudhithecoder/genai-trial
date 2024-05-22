@@ -22,7 +22,8 @@ pip install -r requirements.txt
 
 ## Running the ETL Process
 
-The `retriever.py` file contains all the ETL (Extract, Transform, Load) logic, including tokenizing and embedding. You can run this file separately by adding a print statement and executing it with:
+The `retriever.py` file contains all the ETL (Extract, Transform, Load) logic, including tokenizing and embedding. 
+If you do not wish to run stream lit app, you can run this file separately by adding a print statement and executing it with:
 python3 retriever.py
 
 
