@@ -1,0 +1,10 @@
+web_paths:
+  - "https://www.hsbc.co.in/help/faqs/online-banking/"
+bs_kwargs:
+  parse_only: "cc-wrapper O-COLCTRL-RW-DEV"
+text_splitter:
+  chunk_size: 1000
+  chunk_overlap: 100
+llm:
+  model: "gpt-3.5-turbo"
+  temperature: 0
