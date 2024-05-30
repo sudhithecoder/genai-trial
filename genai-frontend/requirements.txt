@@ -1,0 +1,11 @@
+streamlit
+requests
+pyyaml
+python-dotenv
+SpeechRecognition
+pyttsx3
+gtts
+pyaudio
+streamlit_player
+pygoogletranslation
+gtts
